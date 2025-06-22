@@ -5,9 +5,9 @@ All code was written manually using logical reasoning and fundamental programmin
 
 ## Categories
 
-- Mathematics: Quadratic equations, Pythagorean theorem, etc.  
-- Strings: Palindrome checker.  
-- Conversions: Temperature, binary, time.  
+- Mathematics: Arithmetic mean, etc.  
+- Data procesing: Filter, etc.  
+- Conversions: Temperature, binary, time, etc.  
 
 ## License
 
