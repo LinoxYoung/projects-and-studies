@@ -1,5 +1,3 @@
-# projects-and-studies
-
 # Python Mini Projects  
 Coleção de 20 scripts Python para fins educacionais e práticos.  
 
