@@ -1,5 +1,4 @@
-
-def binary(number):
+def convert(number):
     y = []
     x = 1
     while x <= number:
@@ -9,4 +8,13 @@ def binary(number):
     z = (y[::-1])
     list_z = [str(n) for n in z]
     return(int("".join(list_z)))
-print(binary(5))
+print(convert(5))
+
+def deconvert(number):
+    l = []
+    number = str(number)
+    number = list(number)[::-1]
+    for i in range(len(number)):
+        l.append(int(number[i])*2**i)
+    return(sum(l))
+print(deconvert(101))
