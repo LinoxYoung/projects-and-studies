@@ -14,4 +14,3 @@ def checkPrimeFrequency(nums):
             if nums.count(nums[c]) in l2:
               l3.append("x") 
         return "x" in l3  
-print(checkPrimeFrequency([20,10,60,10,10,10]))

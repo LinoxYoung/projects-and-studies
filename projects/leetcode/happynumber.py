@@ -14,4 +14,3 @@ def happy_number(n):
         return True
     else:
         return False
-print(happy_number(7))

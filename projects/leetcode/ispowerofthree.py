@@ -13,4 +13,4 @@ def isPowerOfThree(n):
         return True
     else: 
         return False
-print(isPowerOfThree())
+

@@ -1,4 +1,3 @@
-number = int(input("number: "))
 def reverse(x):
     if x < 0:
         x = list((str((x)*-1)[::-1]))
@@ -16,4 +15,3 @@ def reverse(x):
             return 0
         else:
             return ((int("".join(x))))
-print(reverse(number))
