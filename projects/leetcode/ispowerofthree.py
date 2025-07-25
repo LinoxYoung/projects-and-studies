@@ -13,4 +13,4 @@ def isPowerOfThree(n):
         return True
     else: 
         return False
-print(isPowerOfThree(9))
+print(isPowerOfThree(27))
